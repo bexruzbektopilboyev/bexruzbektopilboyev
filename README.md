@@ -4,6 +4,6 @@ I make videos on telegram about software development. <br>
 I work remotely and like to travel a lot.
 
 <a href="https://t.me/haqiqiy_fikr" > 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8B3kYH3q4DC7UtuvzXTa1QpYb-XAH6hJrmhVm4zMZQHX6ivPzKmtYlRNHNaesdHUxbo&usqp=CAU" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8B3kYH3q4DC7UtuvzXTa1QpYb-XAH6hJrmhVm4zMZQHX6ivPzKmtYlRNHNaesdHUxbo&usqp=CAU" width="40px" height="50px">
   </a>
 
