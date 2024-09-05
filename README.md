@@ -9,5 +9,5 @@ I work remotely and like to travel a lot.
  
 
 ##Languages and tools I work with:
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXEFwmTcNL5zU0ZBnQVl1WMjjV6-TQhwfCGsMmbtUCKE-6FtWKK19VNRe0yhKZIVRUFg&usqp=CAU" width="50px" height="60px"</code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXEFwmTcNL5zU0ZBnQVl1WMjjV6-TQhwfCGsMmbtUCKE-6FtWKK19VNRe0yhKZIVRUFg&usqp=CAU" width="50px" height="60px"></code>
 
