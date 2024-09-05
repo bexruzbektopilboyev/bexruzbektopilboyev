@@ -13,3 +13,8 @@ I work remotely and like to travel a lot.
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="80px" height="65px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoybqbQ9fzieveguJK1Odn-owmNDnjXqTEOyFDgjqPkgOVV7H1uWQ7kHCLpNvid7xFCAA&usqp=CAU" width="80px" height="65px"></code>
 
+<br>
+-📍 &nbsp; Current location: Toshkent, Uzbekistan
+-📃 &nbsp; Ask me about anything, I am glad to help
+-🔐&nbsp; How to write me:(@Topilboyev_0_2)
+
