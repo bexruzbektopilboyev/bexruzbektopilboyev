@@ -16,5 +16,5 @@ I work remotely and like to travel a lot.
 <br>
 -📍&nbsp;  Current location: Toshkent, Uzbekistan<br>
 -📃&nbsp;  Ask me about anything, I am glad to help<br>
--🔐&nbsp; How to write me on telegram:[@Topilboyev_0_2]
+-🔐&nbsp; How to write me on telegram:[@Topilboyev_0_2](https://telegram.com/Topilboyev_0_2/)
 
