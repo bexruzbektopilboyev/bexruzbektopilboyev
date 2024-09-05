@@ -5,5 +5,9 @@ I work remotely and like to travel a lot.
 
 <a href="https://t.me/haqiqiy_fikr" > 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8B3kYH3q4DC7UtuvzXTa1QpYb-XAH6hJrmhVm4zMZQHX6ivPzKmtYlRNHNaesdHUxbo&usqp=CAU" width="45px" height="50px">
-  </a>
+  </a> 
+  <br />
+
+  ##Languages and tools I work with:
+  <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" width="50px" height="60px"</code>
 
